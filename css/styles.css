@@ -1,0 +1,32 @@
+:root {
+  --white: #ffffff;
+  --red: #fa5652;
+  --secondary-red: #ff383d;
+  --green-color: #035755;
+  --secondary-green: #13615f;
+  --gray: #4b4f51;
+  --green-header-email: #0c6c44;
+  --email-color: #758681;
+  --bck-button-red: #f44a45;
+  --bck-primary: #ffffff;
+  --bck-white-pink: #fff8f8;
+  --footer-color-list: #020303;
+  --copyright-color: #415e56;
+}
+
+/* Общие классы */
+body {
+  background-color: var(--bck-primary);
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.bck-white-pink {
+  background-color: var(--bck-white-pink);
+}
