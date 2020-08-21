@@ -19,7 +19,7 @@ body {
   background-color: var(--bck-primary);
 }
 
-.list {
+.item {
   list-style: none;
 }
 
