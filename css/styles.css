@@ -8,7 +8,6 @@
   --green-header-email: #0c6c44;
   --email-color: #758681;
   --bck-button-red: #f44a45;
-  --bck-primary: #ffffff;
   --bck-white-pink: #fff8f8;
   --footer-color-list: #020303;
   --copyright-color: #415e56;
@@ -16,7 +15,7 @@
 
 /* Общие классы */
 body {
-  background-color: var(--bck-primary);
+  background-color: var(--white);
 }
 
 .item {
